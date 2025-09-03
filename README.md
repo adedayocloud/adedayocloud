@@ -100,7 +100,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </td>
 
 <!-- Animation Section -->
-<td valign="top" width="40%" align="center">
+<td valign="center" width="40%" align="center">
 
 <img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" width="300" alt="Skills Animation" />
 
