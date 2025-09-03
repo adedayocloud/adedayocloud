@@ -11,10 +11,9 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 <td>
 
 ## 🚀 About Me  
-- 💻 DevOps & Cloud Engineer  
-- 🔐 Cybersecurity Enthusiast  
-- ☁️ AWS | Azure | GCP  
-- 🌱 Currently learning **Kubernetes & Terraform**  
+- 💻 DevOps & DevSecOps & Cloud Engineer  
+- 🔐 Cybersecurity Enthusiast 
+- ☁️ Cloud Engineer - AWS | Azure | Terraform 
 
 </td>
 <td>
