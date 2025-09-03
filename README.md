@@ -37,28 +37,6 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   ---
    ---
 
-   ## 📫 Let’s Connect  
-
-<p align="center">
-  <a href="mailto:ebenezerudo7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-----
----
 
 ## 🛠 Core Skills  
 
@@ -117,3 +95,27 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/Splunk-FF6F00?logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-1E1E1E?logo=securityscorecard&logoColor=white" />
 </p>  
+
+---
+---
+## 📫 Let’s Connect  
+
+<p align="center">
+  <a href="mailto:ebenezerudo7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+
