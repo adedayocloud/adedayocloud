@@ -35,7 +35,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </td>
 <td>
 
-<img src="https://via.placeholder.com/200" alt="profile image" width="200" style="border-radius:100%">
+<img src="https://via.placeholder.com/200" alt="profile image" width="300" style="border-radius:100%">
 </td>
 </tr>
 </table>
