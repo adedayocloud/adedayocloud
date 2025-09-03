@@ -45,7 +45,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 <table>
   <tr>
     <!-- Right Side: Core Skills -->
-    <td valign="top" width="60%">
+    <td valign="top" width="100%">
 
 ### ⚙️ DevOps & DevSecOps  
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
