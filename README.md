@@ -42,7 +42,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 ## 📫 Let’s Connect  
 
-<img align="left" alt="skills animation" src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" width="200"/>
+<img align="top" alt="skills animation" src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" width="200"/>
 
 <p align="left">
   <a href="mailto:ebenezerudo7@gmail.com">
