@@ -61,6 +61,13 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 ---
 
 ### ☁️ Cloud Engineering  
+- Cloud Platforms: AWS | Azure | Google Cloud  
+- Cloud Architecture Design (Scalable, High Availability, Fault-Tolerant)  
+- Serverless Computing (AWS Lambda, Azure Functions)  
+- Cloud Networking & Security Groups  
+- Cost Optimization & Performance Tuning  
+- Hybrid & Multi-Cloud Solutions  
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
@@ -72,7 +79,13 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 ---
 
-### 🔒 Cybersecurity  
+### 🔒 Cybersecurity
+- Threat Modeling & Vulnerability Assessment  
+- Penetration Testing & Incident Response  
+- SIEM Tools & Log Analysis (Splunk, ELK, Wazuh)  
+- Firewalls, IDS/IPS, and Endpoint Security  
+- Compliance & Standards (ISO 27001, NIST, GDPR)  
+- Secure Cloud & Container Security Best Practices
 <p>
   <img src="https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
