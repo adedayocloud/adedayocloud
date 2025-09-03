@@ -7,10 +7,12 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 ---
 ----
 ## 🌟 About Me  
-
-
   
-As passionate **DevOps & DevSecOps Specialist | Cloud Engineer | Cybersecurity Professional**.  
+- 💻 DevOps & Cloud Engineer  
+- 🔐 Cybersecurity Enthusiast  
+- 🌱 Cloud Engineer 
+  
+As a passionate **DevOps & DevSecOps Specialist | Cloud Engineer | Cybersecurity Professional**.  
 
 🔹 I enjoy designing **scalable and secure cloud infrastructures**  
 🔹 I thrive on **automation, CI/CD, and Infrastructure as Code**  
