@@ -6,14 +6,24 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 --- ---
 ---
 ----
-## 🌟 About Me  
-  
+<table>
+<tr>
+<td>
+
+## 🚀 About Me  
 - 💻 DevOps & Cloud Engineer  
 - 🔐 Cybersecurity Enthusiast  
-- 🌱 Cloud Engineer 
+- ☁️ AWS | Azure | GCP  
+- 🌱 Currently learning **Kubernetes & Terraform**  
+
+</td>
+<td>
 
 <img src="https://via.placeholder.com/200" alt="profile image" width="200" style="border-radius:50%">
 
+</td>
+</tr>
+</table>
   
 As a passionate **DevOps & DevSecOps Specialist | Cloud Engineer | Cybersecurity Professional**.  
 
