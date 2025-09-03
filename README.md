@@ -110,17 +110,16 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </td>
   </tr>
 </table>
-
 ## 🛠 Core Skills + Animation  
 
 <table>
   <tr>
     <!-- Left Side: Animation -->
-    <td valign="top" width="40%" align="center">
-      <img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" width="320" alt="Skills Animation" />
+    <td valign="middle" width="40%" align="center">
+      <img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" width="300" alt="Skills Animation" />
     </td>
 
-    <!-- Right Side: Core Skills -->
+    <!-- Right Side: Skills -->
     <td valign="top" width="60%">
 
 ### ⚙️ DevOps & DevSecOps  
