@@ -10,9 +10,9 @@
 Hi there 👋, I’m **Ade Dayo** — a technology professional passionate about **building secure, automated, and scalable infrastructures**.  
 I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** to help businesses modernize and protect their digital ecosystems.  
 
---- ---
 ---
 ----
+
 <table>
 <tr>
 <td>
@@ -35,7 +35,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </td>
 <td>
 
-<img src="https://via.placeholder.com/200" alt="profile image" width="200" style="border-radius="100%">
+<img src="https://via.placeholder.com/200" alt="profile image" width="200" style="border-radius="100%" />
 
 </td>
 </tr>
