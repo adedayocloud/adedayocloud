@@ -1,3 +1,10 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/header.png" alt="DevOps | Cloud | Cybersecurity" width="100%" />
+</p>
+
+---
+
 # 🚀 DevOps & DevSecOps Specialist | Cloud Engineer | Cybersecurity Professional  
 
 Hi there 👋, I’m **Ade Dayo** — a technology professional passionate about **building secure, automated, and scalable infrastructures**.  
