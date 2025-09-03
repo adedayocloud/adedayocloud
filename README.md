@@ -1,6 +1,6 @@
 # 🚀 DevOps & DevSecOps Specialist | ☁️ Cloud Engineer | 🔒 Cybersecurity Professional  
 
-Hi there 👋, I’m **Ebenezer Udochukwu** — a technology professional passionate about **building secure, automated, and scalable infrastructures**.  
+Hi there 👋, I’m **Ade Dayo** — a technology professional passionate about **building secure, automated, and scalable infrastructures**.  
 I thrive at the intersection of **DevOps, Cloud Engineering, and Cybersecurity**, helping businesses modernize their systems while reducing risks and accelerating delivery.  
 
 ---
@@ -37,18 +37,10 @@ I thrive at the intersection of **DevOps, Cloud Engineering, and Cybersecurity**
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
-
----
-
 ## 📫 Let’s Connect  
 🌐 [Portfolio Website](#)  
 💼 [LinkedIn](#)  
-📧 **ebenezerudo7@gmail.com**  
+📧 **adedayocloud@gmail.com**  
 
 ---
 
