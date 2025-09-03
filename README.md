@@ -40,6 +40,12 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 ## 🛠 Core Skills  
 
 ### ⚙️ DevOps & DevSecOps  
+- CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
+- Containers & Orchestration (Docker, Kubernetes)  
+- Infrastructure as Code (Terraform, Ansible, CloudFormation)  
+- Configuration Management & Automation  
+- Secure SDLC & DevSecOps Practices (Shift-Left Security, Automated Testing)  
+- Monitoring & Logging (Prometheus, Grafana, ELK Stack)
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
