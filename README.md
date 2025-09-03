@@ -46,7 +46,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 
 
-  ## 🛠 Core Skills + Animation  
+  ## 🛠 Core Skills  
 
 <table>
   <tr>
