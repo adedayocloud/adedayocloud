@@ -111,7 +111,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 <!-- Left Side: Animation -->
 <td valign="center" width="100%" align="center">
 
-<img src="Skills_Animation.webp" width="320" alt="Skills Animation" />
+<img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_Black.gif" width="320" alt="Skills Animation" />
 
 
 </td>
