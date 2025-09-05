@@ -1,7 +1,7 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/79/9e/2e/799e2ee0f91b8390d916c6a6ea77c323.jpg" 
-       alt="Banner" 
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/fingerprint.png" 
+       alt="Fingerprint Banner" 
        width="100%" />
 </p>
 
