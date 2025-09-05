@@ -50,8 +50,29 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </table>
 
   ---
-   ---
+  
 
+---
+
+## 📫 Contact Me  
+
+<p align="center">
+  <a href="mailto:ebenezerudo7@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Email" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/adedayocloud">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/2348104672102">
+    <img src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="WhatsApp" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/adedayocloud">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+</p>
 
 
 
