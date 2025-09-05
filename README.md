@@ -1,8 +1,6 @@
 <!-- Header Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adedayocloud/adedayocloud/main/cybersecurity-banner.png" 
-       alt="Cybersecurity Banner" 
-       width="100%" />
+<p <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.7.1/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/c7e45599-c8f5-4027-a106-16354eddd1c8/snzgHYp2ls.lottie" speed="1" style="width: 300px; height: 300px" mode="forward" loop autoplay></dotlottie-wc>
 </p>
 
 
