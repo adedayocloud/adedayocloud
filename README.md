@@ -1,9 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/adedayocloud/adedayocloud/main/cybersecurity-banner.png" 
        alt="Cybersecurity Banner" 
        width="100%" />
 </p>
+
 
 ---
 
