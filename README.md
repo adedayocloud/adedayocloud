@@ -1,13 +1,19 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/fingerprint.png" 
-       alt="Fingerprint Banner" 
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png" 
+       alt="Cybersecurity Banner" 
        width="100%" />
 </p>
 
 ---
 
-# 🚀 DevOps & DevSecOps Specialist | Cloud Engineer | Cybersecurity Professional  
+# 🚀 DevOps & DevSecOps Specialist | Cloud Engineer | Cybersecurity Professional   
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=adedayocloud&label=Profile%20Views&color=0e75b6&style=flat)
+
+
 
 Hi there 👋, I’m **Ade Dayo** — a technology professional passionate about **building secure, automated, and scalable infrastructures**.  
 I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** to help businesses modernize and protect their digital ecosystems.  
