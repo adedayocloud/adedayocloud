@@ -181,20 +181,20 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
  <h3>🔥 Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
      <p>
-         <img src="https://streak-stats.demolab.com?user=SuriyaTasmimDisha&theme=monokai-metallian&mode=weekly&fire=DD2727">
+         <img src="https://streak-stats.demolab.com?user=adedayocloud&theme=monokai-metallian&mode=weekly&fire=DD2727">
      </p>
  </a>
 
  <h3>💻 GitHub Profile Stats</h3>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="SuriyaDisha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SuriyaTasmimDisha&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
+     <img alt="AdedayoCloud's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AdeDayoCloud&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
  </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="SuriyaDisha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaTasmimDisha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
+     <img alt="AdeDayoCloud's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username==AdeDayoCloud&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
  </a>
 
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-     <img alt="SuriyaDisha's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=SuriyaTasmimDisha&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+     <img alt="AdeDayoCloud's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username==AdeDayoCloud&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
  </a>
 
