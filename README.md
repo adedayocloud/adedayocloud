@@ -1,6 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-username/main/header.png](https://i.pinimg.com/736x/79/9e/2e/799e2ee0f91b8390d916c6a6ea77c323.jpg)" alt="DevOps | Cloud | Cybersecurity" width="100%" />
+  <img src="https://i.pinimg.com/736x/79/9e/2e/799e2ee0f91b8390d916c6a6ea77c323.jpg" 
+       alt="Banner" 
+       width="100%" />
 </p>
 
 ---
