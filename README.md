@@ -72,13 +72,12 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </p>
 
 
+## 🛠 Core Skills  
 
-  ## 🛠 Core Skills  
-
-<table>
+<table bgcolor="#1A2B34" width="100%">
   <tr>
     <!-- Right Side: Core Skills -->
-    <td valign="top" width="100%">
+    <td valign="top" width="100%" style="color:white; padding:15px;">
 
 ### ⚙️ DevOps & DevSecOps  
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
@@ -86,7 +85,8 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 - Infrastructure as Code (Terraform, Ansible, CloudFormation)  
 - Configuration Management & Automation  
 - Secure SDLC & DevSecOps Practices (Shift-Left Security, Automated Testing)  
-- Monitoring & Logging (Prometheus, Grafana, ELK Stack)
+- Monitoring & Logging (Prometheus, Grafana, ELK Stack)  
+
 <p>
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
@@ -116,13 +116,14 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/CloudFormation-FF9900?logo=amazonaws&logoColor=white" />
 </p>  
 
-### 🔒 Cybersecurity
+### 🔒 Cybersecurity  
 - Threat Modeling & Vulnerability Assessment  
 - Penetration Testing & Incident Response  
 - SIEM Tools & Log Analysis (Splunk, ELK, Wazuh)  
 - Firewalls, IDS/IPS, and Endpoint Security  
 - Compliance & Standards (ISO 27001, NIST, GDPR)  
-- Secure Cloud & Container Security Best Practices
+- Secure Cloud & Container Security Best Practices  
+
 <p>
   <img src="https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white" />
@@ -130,24 +131,19 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/Nmap-004575?logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-FF6F00?logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-1E1E1E?logo=securityscorecard&logoColor=white" />
-</p> 
-
+</p>  
 
 </td>
 
 <!-- Left Side: Animation -->
 <td valign="center" width="100%" align="center">
-
-<img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" width="320" alt="Skills Animation" />
-
-
+  <img src="https://github.com/Kiran1689/kiran1689/raw/main/Skills_Animation_White.gif" width="320" alt="Skills Animation" />
 </td>
   </tr>
 </table>
 
+---
 
----
----
 ## 📫 Let’s Connect  
 
 <p align="center">
