@@ -169,24 +169,44 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </p>
 
  <!-- Github Activities -->
- ## 📈 Github Stats
- <h3>🔥 Streak Stats</h3>
- <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-     <p>
-         <img src="https://streak-stats.demolab.com?user=adedayocloud&theme=monokai-metallian&mode=weekly&fire=DD2727">
-     </p>
- </a>
+## 📌 Pinned Repositories
 
- <h3>💻 GitHub Profile Stats</h3>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="AdedayoCloud's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AdeDayoCloud&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
- </a>
+<br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img alt="AdeDayoCloud's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username==AdeDayoCloud&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
- </a>
+<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-     <img alt="AdeDayoCloud's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username==AdeDayoCloud&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
- </a>
+<br>
 
+<a href="https://github.com/braydoncoyer/pomegradient">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer/officeapi">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+<br>
