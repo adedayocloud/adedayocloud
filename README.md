@@ -44,11 +44,6 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 💡 **Mission:** To build **secure, automated, and future-ready infrastructures** that help businesses innovate and grow.  
 
 
-</td>
-<td>
-
-</td>
-</tr>
 </table>
 
   ---
