@@ -46,10 +46,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 </td>
 <td>
-<p align="center">
-  <img src="https://images.thiings.co/thing/deployment.png" alt="Deployment" width="300"/>
-</p>
-<img src="[https://via.placeholder.com/200](https://www.thiings.co/things/deployment.htm#fromView=keyword&page=1&position=0&uuid=64a8794f-84ec-4df5-9bca-020ffcaeba10&query=Devops+background+banner)" alt="profile image" width="500" style="border-radius:200%">
+
 </td>
 </tr>
 </table>
