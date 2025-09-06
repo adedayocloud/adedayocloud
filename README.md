@@ -47,7 +47,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </td>
 <td>
 
-<img src="[https://via.placeholder.com/200](https://www.freepik.com/free-vector/artificial-intelligence-concept-twitch-banner_42089906.htm#fromView=keyword&page=1&position=0&uuid=64a8794f-84ec-4df5-9bca-020ffcaeba10&query=Devops+background+banner)" alt="profile image" width="500" style="border-radius:200%">
+<img src="[https://via.placeholder.com/200](https://www.thiings.co/things/deployment.htm#fromView=keyword&page=1&position=0&uuid=64a8794f-84ec-4df5-9bca-020ffcaeba10&query=Devops+background+banner)" alt="profile image" width="500" style="border-radius:200%">
 </td>
 </tr>
 </table>
