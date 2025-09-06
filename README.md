@@ -25,9 +25,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 ---
 ----
 
-<table>
-<tr>
-<td>
+
 
 ## 🚀 About Me  
 - 💻 DevOps & DevSecOps & Cloud Engineer  
@@ -44,7 +42,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 💡 **Mission:** To build **secure, automated, and future-ready infrastructures** that help businesses innovate and grow.  
 
 
-</table>
+
 
   ---
   
