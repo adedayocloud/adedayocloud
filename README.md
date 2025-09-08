@@ -1,15 +1,10 @@
-<!-- Cloud Database Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/adedayocloud/adedayocloud/main/assets/cloud-database-banner.gif" alt="Cloud Database Animation" width="800" />
-</p>
-<img width="1536" height="1024" alt="ChatGPT Image Sep 8, 2025, 09_03_01 PM" src="https://github.com/user-attachments/assets/e62d8aa3-9bc3-488b-a252-03b555c3e03d" />
+
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A2B34&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ade+Dayo;DevOps+%26+DevSecOps+Specialist;Cloud+Engineer;Cybersecurity+Professional" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A2B34&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ade+Dayo+✨;☁️+DevOps+%26+DevSecOps+Specialist;🗄️+Cloud+Engineer;🛡️+Cybersecurity+Professional" alt="Typing animation" />
 </p>
 
-![Skills-Animation-White-unscreen](https://github.com/user-attachments/assets/086476b6-17fd-4a1a-9fe2-9f398ce06ea0)
 
 
 ---
