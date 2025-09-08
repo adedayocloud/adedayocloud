@@ -73,7 +73,6 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 ## 🛠 Core Skills  
 
 <table>
-  <tr>
   
 
 
@@ -131,8 +130,6 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/Security-1E1E1E?logo=securityscorecard&logoColor=white" />
 </p>  
 
-
-  </tr>
 </table>
 
 
