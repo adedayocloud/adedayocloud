@@ -1,11 +1,11 @@
 <!-- Big Animated Waving Hand -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" />
 </p>
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ade+Dayo+✨;☁️+DevOps+%26+DevSecOps+Specialist;🗄️+Cloud+Engineer;🛡️+Cybersecurity+Professional" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ade+Dayo+✨;☁️+DevOps+%26+DevSecOps+Specialist;🗄️+Cloud+Engineer;🛡️+Cybersecurity+Professional&background=1A2B34FF" alt="Typing animation" />
 </p>
 
 
