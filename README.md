@@ -1,9 +1,12 @@
-<!-- Header Banner -->
+<!-- Cloud Database Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adedayocloud/adedayocloud/main/assets/cloud-database-banner.gif" alt="Cloud Database Animation" width="800" />
+</p>
 
-<!-- Intro Section  -->
-<div id="intro-img" align="center">
-    <a href="#"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width=100></a>
-</div>
+<!-- Animated Typing Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A2B34&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ade+Dayo;DevOps+%26+DevSecOps+Specialist;Cloud+Engineer;Cybersecurity+Professional" alt="Typing animation" />
+</p>
 
 <div id="about-me" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=red&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Ade+Dayo;It's+nice+to+meet+you!;I+am+a+DevOps+Engineer;A+Cloud+and+Cybersecurity+Proessional" alt="Typing SVG" /></a>
