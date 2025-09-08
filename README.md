@@ -132,8 +132,14 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 </p>  
 
   <td valign="center" width="40%" align="center">
-      <img src="https://github.com/adedayocloud/adedayoclou/raw/main/Skills-Animation-White-unscreen.gif" width="320" alt="Skills Animation" />
-    </td>![Skills-Animation-White-unscreen](https://github.com/user-attachments/assets/536e7fb8-7620-465d-800d-0bb60b2861f0)
+      <!-- Animation -->
+    
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdeDayo/AdeDayo/main/assets/cloud-database-banner.gif" alt="Cloud Database Animation" />
+</p>
+![Skills-Animation-White-unscreen](https://github.com/user-attachments/assets/d8a664a6-1fe0-4b63-844d-caeb0fc07bcb)
+
+  </td>
 
   </tr>
 </table>
