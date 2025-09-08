@@ -156,48 +156,6 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   </a>
 </p>
 
- <!-- Github Activities -->
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com//adedayocloud/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com//adedayocloudr/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=/adedayocloud&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com//adedayocloud/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com//adedayocloud/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=/adedayocloud&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com//adedayocloud">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/adedayocloud&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/adedayocloud">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=/adedayocloud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-<br>
 
 ---
 
@@ -209,4 +167,17 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adedayocloud&theme=tokyonight" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adedayocloud&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+## ⚡ Animated Tech Stack  
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/html-5--v1.gif" width="70" alt="HTML" />
+  <img src="https://img.icons8.com/color/96/css3.gif" width="70" alt="CSS" />
+  <img src="https://img.icons8.com/color/96/javascript.gif" width="70" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/96/react-native.gif" width="70" alt="React" />
+  <img src="https://img.icons8.com/color/96/wordpress.gif" width="70" alt="WordPress" />
+  <img src="https://img.icons8.com/color/96/github--v1.gif" width="70" alt="GitHub" />
+  <img src="https://img.icons8.com/color/96/adobe-premiere-pro--v1.gif" width="70" alt="Premiere Pro" />
+  <img src="https://img.icons8.com/color/96/adobe-photoshop--v1.gif" width="70" alt="Photoshop" />
 </p>
