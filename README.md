@@ -169,15 +169,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adedayocloud&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
-## ⚡ Animated Tech Stack  
-
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://img.icons8.com/color/96/html-5--v1.gif" width="70" alt="HTML" />
-  <img src="https://img.icons8.com/color/96/css3.gif" width="70" alt="CSS" />
-  <img src="https://img.icons8.com/color/96/javascript.gif" width="70" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/96/react-native.gif" width="70" alt="React" />
-  <img src="https://img.icons8.com/color/96/wordpress.gif" width="70" alt="WordPress" />
-  <img src="https://img.icons8.com/color/96/github--v1.gif" width="70" alt="GitHub" />
-  <img src="https://img.icons8.com/color/96/adobe-premiere-pro--v1.gif" width="70" alt="Premiere Pro" />
-  <img src="https://img.icons8.com/color/96/adobe-photoshop--v1.gif" width="70" alt="Photoshop" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A2B34&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ebenezer+Udochukwu;Web+Developer+%7C+Video+Editor+%7C+Designer;I+build+cool+things+for+the+web+🚀" alt="Typing animation" />
 </p>
