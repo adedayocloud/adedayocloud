@@ -74,10 +74,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 ## 🛠 Core Skills  
 
-<table bgcolor=1A2B34" width="100%">
-  <tr>
-    <!-- Right Side: Core Skills -->
-    <td valign="top" width="100%" style="color1A2B34; padding:15px;">
+
 
 ### ⚙️ DevOps & DevSecOps  
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
@@ -133,15 +130,9 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/Security-1E1E1E?logo=securityscorecard&logoColor=white" />
 </p>  
 
-</td>
 
-<!-- Left Side: Animation -->
-<td valign="center" width="100%" align="center">
-  <img src="https://github.com/adedayocloud/adedayoclou/raw/main/Skills-Animation-White-unscreen.gif" width="320" alt="Skills Animation" />
-</td>
-</tr>
 
-</table>
+
 
 ---
 
