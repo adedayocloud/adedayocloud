@@ -137,9 +137,10 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 <!-- Left Side: Animation -->
 <td valign="center" width="100%" align="center">
-  <img src="Skills-Animation-White-unscreen.gif" width="320" alt="Skills Animation" />
+  <img src="https://github.com/adedayocloud/adedayoclou/raw/main/Skills-Animation-White-unscreen.gif" width="320" alt="Skills Animation" />
 </td>
 </tr>
+
 </table>
 
 ---
