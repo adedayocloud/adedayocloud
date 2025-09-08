@@ -71,17 +71,20 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 
 ## 🛠 Core Skills  
-
-<table>
   
 
-
+<!-- Skills Table -->
+<table align="center">
+  <tr>
+    <!-- DevOps & DevSecOps -->
+    <td valign="top" width="33%">
+      
 ### ⚙️ DevOps & DevSecOps  
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
 - Containers & Orchestration (Docker, Kubernetes)  
 - Infrastructure as Code (Terraform, Ansible, CloudFormation)  
 - Configuration Management & Automation  
-- Secure SDLC & DevSecOps Practices (Shift-Left Security, Automated Testing)  
+- Secure SDLC & DevSecOps Practices  
 - Monitoring & Logging (Prometheus, Grafana, ELK Stack)  
 
 <p>
@@ -94,11 +97,16 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-</p>  
+</p>
+
+</td>
+
+<!-- Cloud Engineering -->
+<td valign="top" width="33%">
 
 ### ☁️ Cloud Engineering  
 - Cloud Platforms: AWS | Azure | Google Cloud  
-- Cloud Architecture Design (Scalable, High Availability, Fault-Tolerant)  
+- Cloud Architecture Design (HA, Scalable, Fault-Tolerant)  
 - Serverless Computing (AWS Lambda, Azure Functions)  
 - Cloud Networking & Security Groups  
 - Cost Optimization & Performance Tuning  
@@ -111,7 +119,12 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Serverless-FF9900?logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudFormation-FF9900?logo=amazonaws&logoColor=white" />
-</p>  
+</p>
+
+</td>
+
+<!-- Cybersecurity -->
+<td valign="top" width="33%">
 
 ### 🔒 Cybersecurity  
 - Threat Modeling & Vulnerability Assessment  
@@ -119,7 +132,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 - SIEM Tools & Log Analysis (Splunk, ELK, Wazuh)  
 - Firewalls, IDS/IPS, and Endpoint Security  
 - Compliance & Standards (ISO 27001, NIST, GDPR)  
-- Secure Cloud & Container Security Best Practices  
+- Secure Cloud & Container Security Practices  
 
 <p>
   <img src="https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white" />
@@ -128,9 +141,12 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/Nmap-004575?logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Splunk-FF6F00?logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-1E1E1E?logo=securityscorecard&logoColor=white" />
-</p>  
+</p>
 
+</td>
+  </tr>
 </table>
+
 
 
 
