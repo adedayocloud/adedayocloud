@@ -74,8 +74,8 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 <table>
   <tr>
-    <!-- Left Side: Skills -->
-    <td valign="top" width="60%">
+  
+
 
 ### ⚙️ DevOps & DevSecOps  
 - CI/CD Pipelines (Jenkins, GitHub Actions, GitLab CI)  
@@ -131,15 +131,6 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <img src="https://img.shields.io/badge/Security-1E1E1E?logo=securityscorecard&logoColor=white" />
 </p>  
 
-  <td valign="center" width="40%" align="center">
-      <!-- Animation -->
-    
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdeDayo/AdeDayo/main/assets/cloud-database-banner.gif" alt="Cloud Database Animation" />
-</p>
-![Skills-Animation-White-unscreen](https://github.com/user-attachments/assets/d8a664a6-1fe0-4b63-844d-caeb0fc07bcb)
-
-  </td>
 
   </tr>
 </table>
