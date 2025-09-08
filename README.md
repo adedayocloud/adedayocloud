@@ -168,8 +168,3 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adedayocloud&theme=tokyo-night" alt="Contribution Graph" />
 </p>
-
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A2B34&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ebenezer+Udochukwu;Web+Developer+%7C+Video+Editor+%7C+Designer;I+build+cool+things+for+the+web+🚀" alt="Typing animation" />
-</p>
