@@ -198,3 +198,15 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 <br>
 <br>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adedayocloud&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adedayocloud&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adedayocloud&theme=tokyo-night" alt="Contribution Graph" />
+</p>
