@@ -1,5 +1,10 @@
 
 
+<!-- Big Animated Waving Hand -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px" />
+</p>
+
 <!-- Animated Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1A2B34&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ade+Dayo+✨;☁️+DevOps+%26+DevSecOps+Specialist;🗄️+Cloud+Engineer;🛡️+Cybersecurity+Professional" alt="Typing animation" />
