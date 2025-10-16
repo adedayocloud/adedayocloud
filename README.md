@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Welcome%20,%20I'm%20Adedayo%20Adegbola%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Welcome%20,%20I'm%20Adedayo%20Adegbola%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 
