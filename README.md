@@ -3,6 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Welcome%20,%20I'm%20Adedayo%20Adegbola%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
+<p align="center">
+  <iframe 
+    src="https://your-reactive-banner-site.vercel.app" 
+    width="100%" 
+    height="250" 
+    style="border:none; border-radius:10px;"
+  ></iframe>
+</p>
 
 
 <!-- Big Animated Waving Hand -->
