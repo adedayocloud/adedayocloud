@@ -156,7 +156,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <a href="mailto:adedayocloud@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/adedayoadegbola">
+  <a href="[https://www.linkedin.com/in/adedayoadegbola](https://www.linkedin.com/in/adedayo-adegbola?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpM5I9kyERz6FTfl4aJy8bQ%3D%3D)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/adedayocloud">
