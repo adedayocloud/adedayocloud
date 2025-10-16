@@ -55,16 +55,22 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="mailto:adedayocloud@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <!-- Opens Gmail directly in compose mode -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adedayocloud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/adedayo-adegbola">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <!-- Check your real LinkedIn URL — adjust if needed -->
+  <a href="https://www.linkedin.com/in/adedayoadegbola/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/adedayocloud">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- GitHub link -->
+  <a href="https://github.com/adedayocloud" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 
 
