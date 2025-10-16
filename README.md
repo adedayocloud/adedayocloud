@@ -56,21 +56,16 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 
 <p align="center">
   <a href="mailto:adedayocloud@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/adedayoadegbola">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/adedayoadegbola">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/+1(347)951-2659">
-    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/adedayocloud">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 
 ## 🛠 Core Skills  
