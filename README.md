@@ -1,3 +1,10 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi%20there,%20I'm%20Adedayo%20Adegbola%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+
+
 <!-- Big Animated Waving Hand -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" />
@@ -6,12 +13,6 @@
 <!-- Animated Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ade+Dayo+✨;☁️+DevOps+%26+DevSecOps+Specialist;🗄️+Cloud+Engineer;🛡️+Cybersecurity+Professional&background=1A2B34FF" alt="Typing animation" />
-</p>
-
-
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Hi%20there,%20I'm%20Adedayo%20Adegbola%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 
