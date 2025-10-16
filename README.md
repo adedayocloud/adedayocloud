@@ -60,10 +60,11 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <!-- Check your real LinkedIn URL — adjust if needed -->
-  <a href="https://www.linkedin.com/in/adedayoadegbola/" target="_blank">
+  <!-- Your working LinkedIn link -->
+  <a href="https://www.linkedin.com/in/adedayo-adegbola?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpM5I9kyERz6FTfl4aJy8bQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
 
   <!-- GitHub link -->
   <a href="https://github.com/adedayocloud" target="_blank">
@@ -164,10 +165,11 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
-  <!-- Check your real LinkedIn URL — adjust if needed -->
-  <a href="https://www.linkedin.com/in/adedayoadegbola/" target="_blank">
+  <!-- Your working LinkedIn link -->
+  <a href="https://www.linkedin.com/in/adedayo-adegbola?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpM5I9kyERz6FTfl4aJy8bQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
 
   <!-- GitHub link -->
   <a href="https://github.com/adedayocloud" target="_blank">
