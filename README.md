@@ -58,7 +58,7 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
   <a href="mailto:adedayocloud@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/adedayoadegbola">
+  <a href="https://www.linkedin.com/in/adedayo-adegbola">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/adedayocloud">
@@ -153,16 +153,22 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:adedayocloud@gmail.com">
+  <!-- Opens Gmail directly in compose mode -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adedayocloud@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://www.linkedin.com/in/adedayoadegbola](https://www.linkedin.com/in/adedayo-adegbola?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpM5I9kyERz6FTfl4aJy8bQ%3D%3D)">
+
+  <!-- Check your real LinkedIn URL — adjust if needed -->
+  <a href="https://www.linkedin.com/in/adedayoadegbola/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/adedayocloud">
+
+  <!-- GitHub link -->
+  <a href="https://github.com/adedayocloud" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 
 
