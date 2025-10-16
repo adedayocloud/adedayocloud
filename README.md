@@ -55,15 +55,15 @@ I work at the intersection of **DevOps, Cloud Engineering, and Cybersecurity** t
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="mailto:ebenezerudo7@gmail.com">
+  <a href="mailto:adedayocloud@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/adedayocloud">
+  <a href="https://linkedin.com/in/adedayoadegbola">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/2348104672102">
+  <a href="https://wa.me/+1(347)951-2659">
     <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
